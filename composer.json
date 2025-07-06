@@ -1,0 +1,21 @@
+{
+    "name": "humanmade/ai",
+    "description": "AI and WordPress",
+    "authors": [
+        {
+            "name": "Joe Hoyle",
+            "email": "joehoyle@gmail.com"
+        }
+    ],
+    "require": {
+        "openai-php/client": "~0.10",
+        "aws/aws-sdk-php": "~3.278",
+        "phpdocumentor/reflection-docblock": "^5.3",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
