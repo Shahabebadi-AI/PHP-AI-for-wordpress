@@ -1,4 +1,4 @@
-# AI for wordpress
+# PHP AI for wordpress
 This plugin intends to provide an AI integration layer for WordPress 
 This plugin intends to provide an AI integration layer for WordPress and aims to make building AI powered solutions easier, faster, and more collaborative. This layer is relatively unopinionated, leaving decisions of UI and workflows to the solutions built on top. It does however provider several user-facing features and capabilities as a demonstration of the possibilities.
 
